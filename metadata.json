@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc — Precision Web Calculator",
+  "description": "High-precision web calculator with standard, scientific, and programmer modes, unit converter, calculation tape, memory registers, and full keyboard control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
